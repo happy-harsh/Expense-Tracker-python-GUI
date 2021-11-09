@@ -1,3 +1,8 @@
+Project Team:
+---Harsh Dodiya---
+---Amey Morye---
+
+
 # Expense-Tracker-python-GUI
 *Intoduction:*
 In today’s busy and expensive life we are in a great rush to make money. But at the end of the month we broke off. 
