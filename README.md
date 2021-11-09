@@ -1,3 +1,6 @@
+*#EXPENSE TRACKER GUI USING PYTHON TKINTER AND SQLITE3#*
+
+
 Project Team:
 ---Harsh Dodiya---
 ---Amey Morye---
